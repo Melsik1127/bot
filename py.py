@@ -4,7 +4,7 @@ import sys
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-TOKEN = '1235450874:AAHTVDjH_qHjhh8-k0Bc2zkyvBYPOmEMObA'
+TOKEN = '1262410895:AAGF4lqKGSzp6-73cPG9d2eijkiNF-tFKS8'
 bot = telebot.TeleBot(TOKEN)
 
 
